@@ -1,6 +1,6 @@
 ## This is My first android app using android studio
 <br />
-<div align="center">
+<div align="center" margin="30px">
   <span style="margin-right: 40px">
     <img   src="https://github.com/user-attachments/assets/0ba89f0a-cbd2-465d-bf0f-b21ccc1005f2" width="200" height="480px" />
   </span>
