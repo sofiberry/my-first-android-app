@@ -1,7 +1,7 @@
 ## This is My first android app using android studio
 <br />
 <div align="center" >
-  <span margin-right="30px">
+  <span margin="30px">
     <img   src="https://github.com/user-attachments/assets/0ba89f0a-cbd2-465d-bf0f-b21ccc1005f2" width="200" height="480px" />
   </span>
   <span style="margin-right: 40px;" >
