@@ -1,7 +1,8 @@
 ## This is My first android app using android studio
 
 - what does this simple mobile app do?
-  the app is accepts an input from the user and calculates quality of service based on what kind of quality of service is the user needs
+ "\t"  <p>the app is accepts an input from the user and calculates quality of service based on what kind of quality of service is the user needs </p>
+ 
 <br />
 <div align="center" >
   <span margin="30px">
